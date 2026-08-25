@@ -1,4 +1,7 @@
-## Hi there 👋
+<!-- Header -->
+<div align="center">
+  <img src="header.gif" width="100%" alt="Header" />
+</div>
 
 <!--
 **MuhammadFakhirAndito/MuhammadFakhirAndito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +27,9 @@ Here are some ideas to get you started:
 
 
 ![Snake Animation](https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/output/github-snake-dark.svg)
+
+
+<!-- Footer -->
+<div align="center">
+  <img src="footer.gif" width="100%" alt="Footer" />
+</div>
