@@ -31,6 +31,8 @@
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=MuhammadFakhirAndito&style=for-the-badge&color=0070F3&label=PROFILE+VIEWS&labelColor=282a36" alt="Profile Views" />
+
 <br />
 
 <!-- Tech Stack -->
