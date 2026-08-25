@@ -29,9 +29,10 @@
   <a href="mailto:indraandito@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=MuhammadFakhirAndito&style=flat-square&color=0070F3&label=Views&labelColor=1a1a1a" alt="Profile Views" />
+
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadFakhirAndito&style=flat-square&color=0070F3&label=Views&labelColor=1a1a1a" alt="Profile Views" />
 
 <br />
 
