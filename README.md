@@ -32,18 +32,15 @@
 <!-- GitHub Stats & Languages -->
 <p align="center">
   <a href="https://github.com/MuhammadFakhirAndito">
-    <img height="180em" src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/stats-output/stats.svg" alt="Stats Graph" />
-  </a>&nbsp;&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFakhirAndito&background=000000&border=333333&stroke=333333&ring=0070F3&fire=0070F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0070F3&sideLabels=888888&dates=555555" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
   <a href="https://github.com/MuhammadFakhirAndito">
     <img height="180em" src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/languages-output/languages.svg" alt="Languages Graph" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/MuhammadFakhirAndito">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFakhirAndito&background=000000&border=333333&stroke=333333&ring=0070F3&fire=0070F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0070F3&sideLabels=888888&dates=555555" alt="GitHub Streak" />
-  </a>
-</p>
 <br />
 
 <!-- Snake Contribution Graph -->
