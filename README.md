@@ -3,31 +3,48 @@
   <img src="header.gif" width="100%" alt="Header" />
 </div>
 
-<!--
-**MuhammadFakhirAndito/MuhammadFakhirAndito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!-- Intro Section -->
+<div align="center">
+  <h2>👋 Hi there, I'm Dito!</h2>
+  <p>Welcome to my profile! Feel free to explore my repositories and contributions.</p>
 </div>
 
+<br />
 
+<!-- Tech Stack -->
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  </p>
+</div>
 
+<br />
 
-![Snake Animation](https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/output/github-snake-dark.svg)
+<!-- GitHub Stats & Languages -->
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/stats-output/stats.svg" height="165" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/languages-output/languages.svg" height="165" alt="Top Languages" />
+</div>
 
+<br />
+
+<!-- Snake Contribution Graph -->
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/output/github-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<br />
 
 <!-- Footer -->
 <div align="center">
