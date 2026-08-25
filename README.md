@@ -12,6 +12,26 @@
 </div>
 
 <br />
+<div align="center">
+  <h3>📫 Connect with Me</h3>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/an_dito_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muhammad-fakhir-andito-58463b387/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:indraandito@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+</div>
+
+<br />
 
 <!-- Tech Stack -->
 <div align="center">
