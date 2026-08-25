@@ -32,10 +32,10 @@
 <!-- GitHub Stats & Languages -->
 <p align="center">
   <a href="https://github.com/MuhammadFakhirAndito">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadFakhirAndito&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false&ring_color=0070F3" alt="MuhammadFakhirAndito Stats" />
+    <img height="180em" src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/stats-output/stats.svg" alt="Stats Graph" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/MuhammadFakhirAndito">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFakhirAndito&langs_count=8&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Top Languages" />
+    <img height="180em" src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/languages-output/languages.svg" alt="Languages Graph" />
   </a>
 </p>
 
