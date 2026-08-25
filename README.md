@@ -30,12 +30,20 @@
 <br />
 
 <!-- GitHub Stats & Languages -->
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/stats-output/stats.svg" height="165" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/languages-output/languages.svg" height="165" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/MuhammadFakhirAndito">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadFakhirAndito&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false&ring_color=0070F3" alt="MuhammadFakhirAndito Stats" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/MuhammadFakhirAndito">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFakhirAndito&langs_count=8&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Top Languages" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/MuhammadFakhirAndito">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFakhirAndito&background=000000&border=333333&stroke=333333&ring=0070F3&fire=0070F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0070F3&sideLabels=888888&dates=555555" alt="GitHub Streak" />
+  </a>
+</p>
 <br />
 
 <!-- Snake Contribution Graph -->
