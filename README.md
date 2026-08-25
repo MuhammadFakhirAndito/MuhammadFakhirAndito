@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/stats-output/stats.svg" height="165" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/languages-output/languages.svg" height="165" alt="Top Languages" />
 </div>
-
 ###
 ![Snake Animation](https://raw.githubusercontent.com/MuhammadFakhirAndito/MuhammadFakhirAndito/output/github-snake-dark.svg)
