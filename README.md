@@ -7,8 +7,8 @@
 
 <!-- Intro Section -->
 <div align="center">
-  <h2>👋 Hi there, I'm Dito!</h2>
-  <p>Welcome to my profile! Feel free to explore my repositories and contributions.</p>
+  <h2>🚀 Hi there, I'm Dito!</h2>
+  <p>Welcome to my space! I’m a tech enthusiast who loves turning ideas into real-world applications. When I'm not coding, you'll probably find me exploring creative digital projects. Feel free to check out my work or hit me up!</p>
 </div>
 
 <br />
