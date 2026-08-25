@@ -18,7 +18,7 @@
   <h3>💻 Tech Stack</h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,tailwind,docker,git,github,vscode,figma,c++,python,redux,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,laravel,postgres,tailwind,docker,git,vscode,figma,cpp,python,php,redux,html,css,sass&theme=dark&perline=10" alt="Tech Stack" />
   </a>
 </p>
 </div>
